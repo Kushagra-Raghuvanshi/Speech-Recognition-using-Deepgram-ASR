@@ -8,7 +8,7 @@ import pandas as pd
 from functools import reduce
 import os
 
-DEEPGRAM_API_KEY = '4fef1f1f200024291b3a12f486b76e5b00d7db77'
+DEEPGRAM_API_KEY = 'Insert API KEY'
 directory = 'successful_calls_audio_recordings'
 new_directory = 'successful_calls_audio_transcripts'
 
