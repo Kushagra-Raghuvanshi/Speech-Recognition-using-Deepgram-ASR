@@ -49,5 +49,7 @@ async def main(audio_file_path):
 
 
 for filename in os.listdir(directory):
+    if filename == ".DS_Store":
+        continue
     print(f"Running for {filename}")
     asyncio.run(main(filename))
