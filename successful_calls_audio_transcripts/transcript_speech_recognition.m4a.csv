@@ -1,0 +1,11 @@
+cumsum,Speaker,Transcript
+1,Bot,Can I talk to Mark?
+2,Caller,"Hang on okay. Let me see if he's here. Sorry, he's not available right now."
+3,Bot,Do you have any idea where he is?
+4,Caller,Sorry. I don't know.
+5,Bot,Do you know when he will be back?
+6,Caller,He should be back in 30 minutes.
+7,Bot,Can I leave a message?
+8,Caller,"Of course, hold on for just a second so I can grab the pen and paper."
+9,Bot,"When he comes back, can you have him call me at 2 0 6 5 5 5 1 2 1 2 Can you repeat again, please? 2 0 6 5 5 5 1 2 1 2"
+10,Caller,I'll have him call you as soon as he's back.
